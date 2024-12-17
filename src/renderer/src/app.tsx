@@ -1,4 +1,4 @@
-import React, { useCallback, useState, useCallback } from 'react'
+import React, { useCallback, useState } from 'react'
 import Editor from './editor'
 import './app.scss'
 
