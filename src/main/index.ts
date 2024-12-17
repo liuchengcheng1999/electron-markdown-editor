@@ -6,8 +6,8 @@ import icon from '../../resources/icon.png?asset'
 function createWindow(): void {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
-    width: 900,
-    height: 670,
+    width: 1419,
+    height: 866,
     show: false,
     vibrancy: 'under-window', // macos特有效果，实现背景模糊
     transparent: true, //设置界面为透明
