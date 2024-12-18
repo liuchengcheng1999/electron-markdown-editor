@@ -23,17 +23,17 @@ const syntaxHighlighting = HighlightStyle.define([
     {
         tag: tags.heading1,
         fontSize: '1.6em',
-        fontWeight: 'blod'
+        fontWeight: 'bold'
     },
     {
         tag: tags.heading2,
         fontSize: '1.6em',
-        fontWeight: 'blod'
+        fontWeight: 'bold'
     },
     {
         tag: tags.heading3,
         fontSize: '1.6em',
-        fontWeight: 'blod'
+        fontWeight: 'bold'
     }
 ])
 

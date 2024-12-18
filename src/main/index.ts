@@ -10,7 +10,7 @@ function createWindow(): void {
     height: 866,
     show: false,
     vibrancy: 'under-window', // macos特有效果，实现背景模糊
-    transparent: true, //设置界面为透明
+    // transparent: true, //设置界面为透明
     visualEffectState: 'active',
     autoHideMenuBar: true,
     ...(process.platform === 'linux' ? { icon } : {}),
